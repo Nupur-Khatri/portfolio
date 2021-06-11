@@ -59,12 +59,16 @@ body{
     text-align: left;
     font-weight: bold;
 }
+
+.navigation .nav-pills {
+    text-align: right;
+}
+
 .navigation {
     background-color: var(--primary-color);
     color: white;
     text-align: right;
     padding: 1rem;
-    margin:auto;
     border-bottom-left-radius: 1rem;
 }
 
